@@ -5,7 +5,6 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alirezaeslamikhah" alt="alirezaeslamikhah" /></a> </p> -->
 
-- 🔭 I’m currently working on [MicFoal Project](https://github.com/sunnyweike/MicFoal)
 
 - 🌱 I’m currently learning **Machine Learning and its utilizations on my thesis**
 
